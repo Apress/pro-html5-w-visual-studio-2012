@@ -1,0 +1,14 @@
+C:\Books\HTML5\Chapter2\Chapter2\bin\Chapter2.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\Chapter2.pdb
+C:\Books\HTML5\Chapter2\Chapter2\bin\Antlr3.Runtime.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\Microsoft.ScriptManager.jQuery.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\Microsoft.Web.Infrastructure.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\System.Web.Optimization.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\System.Web.Providers.dll
+C:\Books\HTML5\Chapter2\Chapter2\bin\WebGrease.dll
+C:\Books\HTML5\Chapter2\Chapter2\obj\Debug\Chapter2.csprojResolveAssemblyReference.cache
+C:\Books\HTML5\Chapter2\Chapter2\obj\Debug\Chapter2.dll
+C:\Books\HTML5\Chapter2\Chapter2\obj\Debug\Chapter2.pdb

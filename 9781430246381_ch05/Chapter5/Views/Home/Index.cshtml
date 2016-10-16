@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Chapter 5 - Web Workers</title>
+        @Scripts.Render("~/Scripts/myJs")
+        @Styles.Render("~/Content/myCss") 
+
+        <!--<link rel="stylesheet" type="text/css" href="Content/Sample.css" />
+        <script src="Scripts/controlWorker.js"></script>
+        <script src="Scripts/controlSharedWorker.js"></script> -->
+    </head>
+    <body>
+        <header>
+            <h1>Web Workers Demo</h1>
+        </header>
+        
+        <div>
+            <textarea id="output"></textarea> 
+        </div>
+        
+        <form id="control" method="post" action="">
+            <input id="create" type="button" class="button" value="Create Worker" 
+                   onclick="createWorker()"> <br>
+            <input id="send" type="button" class="button" value="Send Message" 
+                   onclick="sendWorkerMessage()">
+            <input id="message" type="text" class="text" value="Hello, World!"><br>
+            <input id="kill" type="button" class="button" value="Close Worker" 
+                   onclick="closeWorker()">
+            <br><br>
+            <input id="createS" type="button" class="button" value="Create Shared" 
+                   onclick="createSharedWorker()"> <br>
+            <input id="sendS" type="button" class="button" value="Send Shared Msg" 
+                   onclick="sendSharedWorkerMessage()">
+            <input id="messageS" type="text" class="text" value="Hello, World!"><br>
+            <input id="killS" type="button" class="button" value="Close Shared" 
+                   onclick="closeSharedWorker()">
+        </form>
+        
+    </body>
+</html>
